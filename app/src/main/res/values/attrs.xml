@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PolygonalDotView">
+        <attr name="pdv_circleCount" format="integer" />
+        <attr name="pdv_circleSpacing" format="integer" />
+        <attr name="pdv_circleRadius" format="integer" />
+        <attr name="pdv_strokeWidth" format="float" />
+    </declare-styleable>
+</resources>
